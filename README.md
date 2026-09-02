@@ -1,3 +1,6 @@
+<h3>Play immediately web</h3>
+https://wratheus.github.io/Tetris/
+
 # 🎮 Tetris
 
 Классическая игра Tetris, реализованная на Flutter для всех основных платформ.
