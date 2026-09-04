@@ -1,5 +1,5 @@
 <h3>Play immediately web</h3>
-https://wratheus.github.io/Tetris/
+[https://wratheus.github.io/Tetris/](https://wratheus.github.io/flutter_tetris/)
 
 # 🎮 Tetris
 
